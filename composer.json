@@ -1,0 +1,21 @@
+{
+  "name": "dkhru/chess",
+  "description": "Chess base object library",
+  "type": "library",
+  "license": "BSD",
+  "authors": [
+    {
+      "name": "dkhru",
+      "email": "support@dkh.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "dkhru\\chess\\": "src/"
+    }
+  }
+}
