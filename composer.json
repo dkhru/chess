@@ -1,6 +1,6 @@
 {
   "name": "dkhru/chess",
-  "version":"1.0-dev",
+  "version":"1.0.1-dev",
   "description": "Chess base object library",
   "type": "library",
   "license": "BSD-3-Clause",
